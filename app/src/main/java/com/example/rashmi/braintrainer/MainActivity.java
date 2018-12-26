@@ -108,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
         resultTextView = findViewById(R.id.resultTextView);
         scoreTextView = findViewById(R.id.scoreTextView);
         timerTextView = findViewById(R.id.timerTextView);
+
         playAgainButton = findViewById(R.id.playAgainButton);
         gameLayout = findViewById(R.id.gameLayout);
         goButton = findViewById(R.id.goButton);
